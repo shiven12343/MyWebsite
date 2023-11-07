@@ -1,0 +1,19 @@
+#apps{
+    background-color: aqua;
+    }
+#games{
+        background-color: lightgreen;
+    }
+    .line{
+        height: 6px;
+        width: 70px;
+        background-color: black;
+        margin: 8px auto;
+    }
+    body{
+        text-align: center;
+        background-color: rgb(255, 0, 0);
+    }
+#bot{
+    background-color: aqua;
+}
